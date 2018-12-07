@@ -124,3 +124,86 @@ section h2:before, section h2:after{
   margin-left: auto;
   margin-right: auto;
 }
+.recordings{
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  display:block;
+  width: 75%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.videos{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+  display:grid;
+  margin: 0px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  background: #000000;
+  font-family: 'Montserrat', sans-serif;
+  background-repeat: repeat;
+}
+.projects{
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  display:block;
+  width: 75%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.digital_resume{
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  display:block;
+  width: 75%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.transcriptions{
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  display:block;
+  width: 75%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+div .oblivion:after{
+	display: block;
+	content: '';
+	height: 10px;
+	background: #89c3a9;
+}
+div .kots:after{
+	display: block;
+	content: '';
+	height: 10px;
+	background: #89c3a9;
+}
+div .wgasts:after{
+	display: block;
+	content: '';
+	height: 10px;
+	background: #89c3a9;
+}
