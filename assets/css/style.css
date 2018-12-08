@@ -156,7 +156,6 @@ section h2:before, section h2:after{
   padding-top: 25px;
   padding-bottom: 25px;
 }
-}
 
 /* PROJECTS PAGE STYLING (pg3) ////////////////////////////// */
 .projects{
@@ -227,24 +226,24 @@ div .wgasts:after{
 /* ----------- iPhone 4 and 4S ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 320px) 
+@media only screen
+  and (min-device-width: 320px)
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
 
 }
 
 /* Portrait */
-@media only screen 
-  and (min-device-width: 320px) 
+@media only screen
+  and (min-device-width: 320px)
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
 }
 
 /* Landscape */
-@media only screen 
-  and (min-device-width: 320px) 
+@media only screen
+  and (min-device-width: 320px)
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) {
@@ -254,24 +253,24 @@ div .wgasts:after{
 /* ----------- iPhone 5, 5S, 5C and 5SE ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 320px) 
+@media only screen
+  and (min-device-width: 320px)
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2) {
 
 }
 
 /* Portrait */
-@media only screen 
-  and (min-device-width: 320px) 
+@media only screen
+  and (min-device-width: 320px)
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
 }
 
 /* Landscape */
-@media only screen 
-  and (min-device-width: 320px) 
+@media only screen
+  and (min-device-width: 320px)
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: landscape) {
@@ -281,111 +280,111 @@ div .wgasts:after{
 /* ----------- iPhone 6, 6S, 7 and 8 ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2) { 
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2) {
 
 }
 
 /* Portrait */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) 
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) { 
+  and (orientation: portrait) {
 
 }
 
 /* Landscape */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) 
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: landscape) { 
+  and (orientation: landscape) {
 
 }
 
 /* ----------- iPhone 6+, 7+ and 8+ ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 414px) 
-  and (max-device-width: 736px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 3) {
 
 }
 
 /* Portrait */
-@media only screen 
-  and (min-device-width: 414px) 
-  and (max-device-width: 736px) 
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
   and (-webkit-min-device-pixel-ratio: 3)
-  and (orientation: portrait) { 
+  and (orientation: portrait) {
 
 }
 
 /* Landscape */
-@media only screen 
-  and (min-device-width: 414px) 
-  and (max-device-width: 736px) 
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
   and (-webkit-min-device-pixel-ratio: 3)
-  and (orientation: landscape) { 
+  and (orientation: landscape) {
 
 }
 
 /* ----------- iPhone X ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 812px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 812px)
+  and (-webkit-min-device-pixel-ratio: 3) {
 
 }
 
 /* Portrait */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 812px) 
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 812px)
   and (-webkit-min-device-pixel-ratio: 3)
-  and (orientation: portrait) { 
+  and (orientation: portrait) {
 
 }
 
 /* Landscape */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 812px) 
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 812px)
   and (-webkit-min-device-pixel-ratio: 3)
-  and (orientation: landscape) { 
+  and (orientation: landscape) {
 
 }
 
 /* ----------- Galaxy S3 ----------- */
 
 /* Portrait and Landscape */
-@media screen 
-  and (device-width: 320px) 
-  and (device-height: 640px) 
+@media screen
+  and (device-width: 320px)
+  and (device-height: 640px)
   and (-webkit-device-pixel-ratio: 2) {
 
 }
 
 /* Portrait */
-@media screen 
-  and (device-width: 320px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 2) 
+@media screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 2)
   and (orientation: portrait) {
 
 }
 
 /* Landscape */
-@media screen 
-  and (device-width: 320px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 2) 
+@media screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 2)
   and (orientation: landscape) {
 
 }
@@ -393,27 +392,27 @@ div .wgasts:after{
 /* ----------- Galaxy S4, S5 and Note 3 ----------- */
 
 /* Portrait and Landscape */
-@media screen 
-  and (device-width: 320px) 
-  and (device-height: 640px) 
+@media screen
+  and (device-width: 320px)
+  and (device-height: 640px)
   and (-webkit-device-pixel-ratio: 3) {
 
 }
 
 /* Portrait */
-@media screen 
-  and (device-width: 320px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3) 
+@media screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
   and (orientation: portrait) {
 
 }
 
 /* Landscape */
-@media screen 
-  and (device-width: 320px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3) 
+@media screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
   and (orientation: landscape) {
 
 }
@@ -421,27 +420,27 @@ div .wgasts:after{
 /* ----------- Galaxy S6 ----------- */
 
 /* Portrait and Landscape */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
   and (-webkit-device-pixel-ratio: 4) {
 
 }
 
 /* Portrait */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 4) 
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 4)
   and (orientation: portrait) {
 
 }
 
 /* Landscape */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 4) 
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 4)
   and (orientation: landscape) {
 
 }
@@ -449,27 +448,27 @@ div .wgasts:after{
 /* ----------- Google Pixel ----------- */
 
 /* Portrait and Landscape */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
   and (-webkit-device-pixel-ratio: 3) {
 
 }
 
 /* Portrait */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3) 
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
   and (orientation: portrait) {
 
 }
 
 /* Landscape */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3) 
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
   and (orientation: landscape) {
 
 }
@@ -477,24 +476,24 @@ div .wgasts:after{
 /* ----------- Windows Phone ----------- */
 
 /* Portrait and Landscape */
-@media screen 
-  and (device-width: 480px) 
+@media screen
+  and (device-width: 480px)
   and (device-height: 800px) {
 
 }
 
 /* Portrait */
-@media screen 
-  and (device-width: 480px) 
-  and (device-height: 800px)  
+@media screen
+  and (device-width: 480px)
+  and (device-height: 800px)
   and (orientation: portrait) {
 
 }
 
 /* Landscape */
-@media screen 
-  and (device-width: 480px) 
-  and (device-height: 800px) 
+@media screen
+  and (device-width: 480px)
+  and (device-height: 800px)
   and (orientation: landscape) {
 
 }
@@ -502,27 +501,27 @@ div .wgasts:after{
 /* ----------- iPad 1, 2, Mini and Air ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
   and (-webkit-min-device-pixel-ratio: 1) {
 
 }
 
 /* Portrait */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: portrait) 
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: portrait)
   and (-webkit-min-device-pixel-ratio: 1) {
 
 }
 
 /* Landscape */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: landscape) 
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: landscape)
   and (-webkit-min-device-pixel-ratio: 1) {
 
 }
@@ -530,27 +529,27 @@ div .wgasts:after{
 /* ----------- iPad 3, 4 and Pro 9.7" ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
   and (-webkit-min-device-pixel-ratio: 2) {
 
 }
 
 /* Portrait */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: portrait) 
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: portrait)
   and (-webkit-min-device-pixel-ratio: 2) {
 
 }
 
 /* Landscape */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: landscape) 
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: landscape)
   and (-webkit-min-device-pixel-ratio: 2) {
 
 }
@@ -558,8 +557,8 @@ div .wgasts:after{
 /* ----------- iPad Pro 10.5" ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 834px) 
+@media only screen
+  and (min-device-width: 834px)
   and (max-device-width: 1112px)
   and (-webkit-min-device-pixel-ratio: 2) {
 
@@ -568,10 +567,10 @@ div .wgasts:after{
 /* Portrait */
 /* Declare the same value for min- and max-width to avoid colliding with desktops */
 /* Source: https://medium.com/connect-the-dots/css-media-queries-for-ipad-pro-8cad10e17106*/
-@media only screen 
-  and (min-device-width: 834px) 
-  and (max-device-width: 834px) 
-  and (orientation: portrait) 
+@media only screen
+  and (min-device-width: 834px)
+  and (max-device-width: 834px)
+  and (orientation: portrait)
   and (-webkit-min-device-pixel-ratio: 2) {
 
 }
@@ -579,10 +578,10 @@ div .wgasts:after{
 /* Landscape */
 /* Declare the same value for min- and max-width to avoid colliding with desktops */
 /* Source: https://medium.com/connect-the-dots/css-media-queries-for-ipad-pro-8cad10e17106*/
-@media only screen 
-  and (min-device-width: 1112px) 
-  and (max-device-width: 1112px) 
-  and (orientation: landscape) 
+@media only screen
+  and (min-device-width: 1112px)
+  and (max-device-width: 1112px)
+  and (orientation: landscape)
   and (-webkit-min-device-pixel-ratio: 2) {
 
 }
@@ -590,8 +589,8 @@ div .wgasts:after{
 /* ----------- iPad Pro 12.9" ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 1024px) 
+@media only screen
+  and (min-device-width: 1024px)
   and (max-device-width: 1366px)
   and (-webkit-min-device-pixel-ratio: 2) {
 
@@ -600,10 +599,10 @@ div .wgasts:after{
 /* Portrait */
 /* Declare the same value for min- and max-width to avoid colliding with desktops */
 /* Source: https://medium.com/connect-the-dots/css-media-queries-for-ipad-pro-8cad10e17106*/
-@media only screen 
-  and (min-device-width: 1024px) 
-  and (max-device-width: 1024px) 
-  and (orientation: portrait) 
+@media only screen
+  and (min-device-width: 1024px)
+  and (max-device-width: 1024px)
+  and (orientation: portrait)
   and (-webkit-min-device-pixel-ratio: 2) {
 
 }
@@ -611,37 +610,37 @@ div .wgasts:after{
 /* Landscape */
 /* Declare the same value for min- and max-width to avoid colliding with desktops */
 /* Source: https://medium.com/connect-the-dots/css-media-queries-for-ipad-pro-8cad10e17106*/
-@media only screen 
-  and (min-device-width: 1366px) 
-  and (max-device-width: 1366px) 
-  and (orientation: landscape) 
+@media only screen
+  and (min-device-width: 1366px)
+  and (max-device-width: 1366px)
+  and (orientation: landscape)
   and (-webkit-min-device-pixel-ratio: 2) {
 
 }
 /* ----------- Google Pixel XL ----------- */
 
 /* Portrait and Landscape */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
   and (-webkit-device-pixel-ratio: 4) {
 
 }
 
 /* Portrait */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 4) 
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 4)
   and (orientation: portrait) {
 
 }
 
 /* Landscape */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 4) 
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 4)
   and (orientation: landscape) {
 
 }
@@ -649,27 +648,27 @@ div .wgasts:after{
 /* ----------- HTC One ----------- */
 
 /* Portrait and Landscape */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
   and (-webkit-device-pixel-ratio: 3) {
 
 }
 
 /* Portrait */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3) 
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
   and (orientation: portrait) {
 
 }
 
 /* Landscape */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3) 
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
   and (orientation: landscape) {
 
 }
@@ -677,79 +676,79 @@ div .wgasts:after{
 /* ----------- Galaxy Tab 2 ----------- */
 
 /* Portrait and Landscape */
-@media 
-  (min-device-width: 800px) 
+@media
+  (min-device-width: 800px)
   and (max-device-width: 1280px) {
 
 }
 
 /* Portrait */
-@media 
-  (max-device-width: 800px) 
-  and (orientation: portrait) { 
+@media
+  (max-device-width: 800px)
+  and (orientation: portrait) {
 
 }
 
 /* Landscape */
-@media 
-  (max-device-width: 1280px) 
-  and (orientation: landscape) { 
+@media
+  (max-device-width: 1280px)
+  and (orientation: landscape) {
 
 }
 
 /* ----------- Galaxy Tab S ----------- */
 
 /* Portrait and Landscape */
-@media 
-  (min-device-width: 800px) 
+@media
+  (min-device-width: 800px)
   and (max-device-width: 1280px)
   and (-webkit-min-device-pixel-ratio: 2) {
 
 }
 
 /* Portrait */
-@media 
-  (max-device-width: 800px) 
+@media
+  (max-device-width: 800px)
   and (orientation: portrait)
-  and (-webkit-min-device-pixel-ratio: 2) { 
+  and (-webkit-min-device-pixel-ratio: 2) {
 
 }
 
 /* Landscape */
-@media 
-  (max-device-width: 1280px) 
+@media
+  (max-device-width: 1280px)
   and (orientation: landscape)
-  and (-webkit-min-device-pixel-ratio: 2) { 
+  and (-webkit-min-device-pixel-ratio: 2) {
 
 }
 
 /* ----------- Nexus 7 ----------- */
 
 /* Portrait and Landscape */
-@media screen 
-  and (device-width: 601px) 
-  and (device-height: 906px) 
-  and (-webkit-min-device-pixel-ratio: 1.331) 
+@media screen
+  and (device-width: 601px)
+  and (device-height: 906px)
+  and (-webkit-min-device-pixel-ratio: 1.331)
   and (-webkit-max-device-pixel-ratio: 1.332) {
 
 }
 
 /* Portrait */
-@media screen 
-  and (device-width: 601px) 
-  and (device-height: 906px) 
-  and (-webkit-min-device-pixel-ratio: 1.331) 
-  and (-webkit-max-device-pixel-ratio: 1.332) 
+@media screen
+  and (device-width: 601px)
+  and (device-height: 906px)
+  and (-webkit-min-device-pixel-ratio: 1.331)
+  and (-webkit-max-device-pixel-ratio: 1.332)
   and (orientation: portrait) {
 
 }
 
 /* Landscape */
-@media screen 
-  and (device-width: 601px) 
-  and (device-height: 906px) 
-  and (-webkit-min-device-pixel-ratio: 1.331) 
-  and (-webkit-max-device-pixel-ratio: 1.332) 
+@media screen
+  and (device-width: 601px)
+  and (device-height: 906px)
+  and (-webkit-min-device-pixel-ratio: 1.331)
+  and (-webkit-max-device-pixel-ratio: 1.332)
   and (orientation: landscape) {
 
 }
@@ -757,30 +756,30 @@ div .wgasts:after{
 /* ----------- Nexus 9 ----------- */
 
 /* Portrait and Landscape */
-@media screen 
-  and (device-width: 1536px) 
-  and (device-height: 2048px) 
-  and (-webkit-min-device-pixel-ratio: 1.331) 
+@media screen
+  and (device-width: 1536px)
+  and (device-height: 2048px)
+  and (-webkit-min-device-pixel-ratio: 1.331)
   and (-webkit-max-device-pixel-ratio: 1.332) {
 
 }
 
 /* Portrait */
-@media screen 
-  and (device-width: 1536px) 
-  and (device-height: 2048px) 
-  and (-webkit-min-device-pixel-ratio: 1.331) 
-  and (-webkit-max-device-pixel-ratio: 1.332) 
+@media screen
+  and (device-width: 1536px)
+  and (device-height: 2048px)
+  and (-webkit-min-device-pixel-ratio: 1.331)
+  and (-webkit-max-device-pixel-ratio: 1.332)
   and (orientation: portrait) {
 
 }
 
 /* Landscape */
-@media screen 
-  and (device-width: 1536px) 
-  and (device-height: 2048px) 
-  and (-webkit-min-device-pixel-ratio: 1.331) 
-  and (-webkit-max-device-pixel-ratio: 1.332) 
+@media screen
+  and (device-width: 1536px)
+  and (device-height: 2048px)
+  and (-webkit-min-device-pixel-ratio: 1.331)
+  and (-webkit-max-device-pixel-ratio: 1.332)
   and (orientation: landscape) {
 
 }
@@ -788,26 +787,26 @@ div .wgasts:after{
 /* ----------- Kindle Fire HD 7" ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 800px) 
-  and (max-device-width: 1280px) 
+@media only screen
+  and (min-device-width: 800px)
+  and (max-device-width: 1280px)
   and (-webkit-min-device-pixel-ratio: 1.5) {
 
 }
 
 /* Portrait */
-@media only screen 
-  and (min-device-width: 800px) 
-  and (max-device-width: 1280px) 
-  and (-webkit-min-device-pixel-ratio: 1.5) 
+@media only screen
+  and (min-device-width: 800px)
+  and (max-device-width: 1280px)
+  and (-webkit-min-device-pixel-ratio: 1.5)
   and (orientation: portrait) {
 }
 
 /* Landscape */
-@media only screen 
-  and (min-device-width: 800px) 
-  and (max-device-width: 1280px) 
-  and (-webkit-min-device-pixel-ratio: 1.5) 
+@media only screen
+  and (min-device-width: 800px)
+  and (max-device-width: 1280px)
+  and (-webkit-min-device-pixel-ratio: 1.5)
   and (orientation: landscape) {
 
 }
@@ -815,55 +814,55 @@ div .wgasts:after{
 /* ----------- Kindle Fire HD 8.9" ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 1200px) 
-  and (max-device-width: 1600px) 
+@media only screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
   and (-webkit-min-device-pixel-ratio: 1.5) {
 
 }
 
 /* Portrait */
-@media only screen 
-  and (min-device-width: 1200px) 
-  and (max-device-width: 1600px) 
-  and (-webkit-min-device-pixel-ratio: 1.5) 
+@media only screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+  and (-webkit-min-device-pixel-ratio: 1.5)
   and (orientation: portrait) {
 }
 
 /* Landscape */
-@media only screen 
-  and (min-device-width: 1200px) 
-  and (max-device-width: 1600px) 
-  and (-webkit-min-device-pixel-ratio: 1.5) 
+@media only screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+  and (-webkit-min-device-pixel-ratio: 1.5)
   and (orientation: landscape) {
 
 }
 
 /* ----------- Non-Retina Screens ----------- */
-@media screen 
-  and (min-device-width: 1200px) 
-  and (max-device-width: 1600px) 
-  and (-webkit-min-device-pixel-ratio: 1) { 
+@media screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+  and (-webkit-min-device-pixel-ratio: 1) {
 }
 
 /* ----------- Retina Screens ----------- */
-@media screen 
-  and (min-device-width: 1200px) 
-  and (max-device-width: 1600px) 
+@media screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
   and (-webkit-min-device-pixel-ratio: 2)
-  and (min-resolution: 192dpi) { 
+  and (min-resolution: 192dpi) {
 }
 
 /* ----------- Apple Watch ----------- */
 @media
   (max-device-width: 42mm)
-  and (min-device-width: 38mm) { 
+  and (min-device-width: 38mm) {
 
 }
 
 /* ----------- Moto 360 Watch ----------- */
-@media 
+@media
   (max-device-width: 218px)
-  and (max-device-height: 281px) { 
+  and (max-device-height: 281px) {
 
 }
