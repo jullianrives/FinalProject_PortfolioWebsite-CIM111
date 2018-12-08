@@ -142,21 +142,20 @@ section h2:before, section h2:after{
   margin-right: auto;
 }
 .videos{
-  display:block;
+  display:grid;
   margin-left: auto;
   margin-right: auto;
-  text-align: left;
-  font-size: 25px;
-  font-family: 'Montserrat', sans-serif;
-  padding-top: 25px;
-  padding-bottom: 25px;
-
-  display:grid;
-  margin: 0px;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-scaled, minmax(200px, 1fr));
+  grid-row-gap: 10px;
+  grid-column-gap:10px;
   background: #000000;
+  text-align: center;
+  justify-content: center;
   font-family: 'Montserrat', sans-serif;
   background-repeat: repeat;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
 }
 
 /* PROJECTS PAGE STYLING (pg3) ////////////////////////////// */
